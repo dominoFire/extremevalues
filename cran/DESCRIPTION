@@ -1,5 +1,5 @@
 Package: extremevalues
-Description: Detect outliers in one-dimensional data.
+Description: Detect outliers in one-dimensional data with no GUI interface.
 Version: 2.3.1
 Date: 2015-07-13
 Title: Univariate Outlier Detection
