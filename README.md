@@ -1,5 +1,5 @@
-extremevalues
-=============
+extremevalues2
+==============
 
 An R-package for distribution-based outlier detection
 
