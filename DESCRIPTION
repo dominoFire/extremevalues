@@ -1,0 +1,6 @@
+Package: extremevalues2
+Title: extremevalues2
+Version: 0.0.1
+Description: ...
+Depends:
+    R (>= 3.2.3)
